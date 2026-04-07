@@ -1,12 +1,12 @@
-#Kalpathon_Hackathon_2.0
+<h1>Kalpathon_Hackathon_2.0</h1>
 <br>
 TEAM NAME
+<h3>TRIBHA</h3>
 <br>
-<h1>TRIBHA</h1>
 PROJECT NAME
 
 SELECTED TRACK
-<h1>WEB3</h1>
+<h3>WEB3</h3>
 SELECTED PROBLEM STATEMENT(PS)
-
-NAME:<h1>ABHINAV CHAURASIA</h1> Phone: <h1>9580273367</h1>Alternate Phone: <h1>8005044221</h1> 
+<br>
+NAME:<h3>ABHINAV CHAURASIA</h3> Phone: <h3>9580273367</h3>Alternate Phone: <h3>8005044221</h3> 
